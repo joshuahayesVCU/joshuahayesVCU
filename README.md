@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Joshua Hayes
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning web devlopment 
-- 📫 How to reach me hayesj9@vcu.edu
-- ✨ Software engineer intern at Markel Insurance 
+- 👋 Hello! My name is Joshua Hayes. I am a senior CS major at VCU 
 
-<!---
-joshuahayesVCU/joshuahayesVCU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ✨ I am currently a backend software engineer intern at Markel Group 
+
+- 🌱 My current focus is on web development using ASP.NET and C# 
+ 
+- 📫 You can reach me at hayesj9@vcu.edu
+
+- Throughout my github you'll find both school and side projects. I am currently working on the ClimbingApi repository.  
