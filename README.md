@@ -1,9 +1,12 @@
-- 👋 Hello! My name is Joshua Hayes. I am a senior CS major at VCU 
+**Thank you for checking out my GitHub!**
 
-- ✨ I am currently a backend software engineer intern at Markel Group 
+My name is Joshua Hayes, I am a 4th year CS major at Virginia Commonwealth University. I am currently working as part-time backend software engineer at Markel Group while I finish my studies. I recieved this position after steller perforamce as an intern. 
 
-- 🌱 My current focus is on web development using ASP.NET and C# 
- 
-- 📫 You can reach me at hayesj9@vcu.edu
+At Markel I work on a .NET BAU team as a backend engineer and participate in the agile process. 
 
-- Throughout my github you'll find both school and side projects. I am currently working on the ClimbingApi repository.  
+My current focus is learning Rust. I am working through the exercies in the Rust Langauge Book, Rustlings, and Rust by Example. You can find my progress for this in the "rust_language_book" repository. 
+
+Throughout my github you'll find school projects such as CMSC508-final. Personal side projects like realFakeNews, Odin-LandingPage, odin-RockPaperScissors, and ClimbingApi. And projects that I followed a tutorial such as IssuesApi and TodoApi. You'll also find my dotfiles, I enjoy doing development in a terminal enviroment with Neovim. 
+
+You can reach me at hayesj9@vcu.edu
+You can view my linkedin at https://www.linkedin.com/in/joshua-hayes-vcu/
