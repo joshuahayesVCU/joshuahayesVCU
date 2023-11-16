@@ -9,4 +9,4 @@ My current focus is my senior capstone project. I am leading a team of 5 multi-d
 Throughout my Github you'll find school projects such as CMSC508-final. Personal side projects like realFakeNews, Odin-LandingPage, odin-RockPaperScissors, and ClimbingApi. And projects that I followed a tutorial such as IssuesApi and TodoApi. You'll also find my dotfiles, I enjoy doing development in a terminal environment with Neovim. 
 
 You can reach me at hayesj9@vcu.edu
-You can view my LinkedIn at [here](https://www.linkedin.com/in/joshua-hayes-vcu/)
+You can view my LinkedIn [here](https://www.linkedin.com/in/joshua-hayes-vcu/)
