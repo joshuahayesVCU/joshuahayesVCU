@@ -1,12 +1,41 @@
-**Thank you for checking out my GitHub!**
+# Welcome to My GitHub!
 
-My name is Joshua Hayes, I am a 4th year CS major at Virginia Commonwealth University. I am currently working as a part-time backend software engineer at Markel Group while I finish my degree. I received this position after stellar performance as an intern. 
+## Introduction
 
-At Markel, I work on a .NET BAU team as a fullstack engineer and participate in the agile process. 
+Hello, I'm Joshua Hayes, a 4th-year Computer Science major at Virginia Commonwealth University. Currently, I'm balancing my academic journey with real-world experience as a part-time backend software engineer at Markel Group, where I contribute to a .NET BAU team as a full-stack engineer, actively engaging in the agile development process.
 
-My current focus is my senior capstone project. I am leading a team of 5 multi-disciplined engineers (CS and EE) in an effort to centralize the knowledge base of a young but successful research project. You can view our efforts at [LittleRamPantry.com](http://littlerampantries.com). Unfortunately, the code is closed source - but you can view my front-end code in the repo [LRP_Frontend](https://github.com/joshuahayesVCU/LRP_Frontend). Make sure to take a look at the PDF slideshow in the repo, it highlights the importance and impact of this hunger-fighting project. 
+## Professional Experience
 
-Throughout my Github you'll find school projects such as CMSC508-final. Personal side projects like realFakeNews, Odin-LandingPage, odin-RockPaperScissors, and ClimbingApi. And projects that I followed a tutorial such as IssuesApi and TodoApi. You'll also find my dotfiles, I enjoy doing development in a terminal environment with Neovim. 
+I earned my position at Markel Group based on outstanding performance during my internship. As part of the team, I tackle various responsibilities, contributing to the continuous improvement of the software.
 
-You can reach me at hayesj9@vcu.edu
-You can view my LinkedIn [here](https://www.linkedin.com/in/joshua-hayes-vcu/)
+## Senior Capstone Project - Little Ram Pantries
+
+My main focus is on my senior capstone project. Leading a team of 5 multi-disciplined engineers (CS and EE), we aim to centralize the knowledge base of the successful research project [LittleRamPantry.com](http://littlerampantries.com). While the code is closed source, you can explore my front-end contributions in the [LRP_Frontend](https://github.com/joshuahayesVCU/LRP_Frontend) repository. For a comprehensive overview, check out the PDF slideshow in the repository, highlighting the significance and impact of this hunger-fighting initiative.
+
+## GitHub Projects Overview
+
+Throughout my GitHub, you'll find a variety of projects:
+
+- **School Projects:**
+  - Cart service
+  - Product service
+  - Withdraw form CMSC508-final
+
+- **Personal Side Projects:**
+  - realFakeNews
+  - Odin-LandingPage
+  - odin-RockPaperScissors
+  - ClimbingApi
+
+- **Tutorial-based Projects:**
+  - IssuesApi
+  - TodoApi
+
+- **Dotfiles:**
+  - I enjoy terminal development with Neovim.
+
+## Contact Information
+
+Feel free to reach out to me at hayesj9@vcu.edu. Connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-hayes-vcu/) for professional networking.
+
+Thank you for exploring my GitHub!
